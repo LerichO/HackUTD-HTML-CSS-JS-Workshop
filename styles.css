@@ -1,0 +1,36 @@
+h2 {
+  color: blue;
+}
+
+#nohehe {
+  color: blueviolet;
+}
+
+.fart {
+  border: 1px solid green;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+/*
+do piss first instead of div piss to show specifying classes
+*/
+div.piss {
+  display: flex;
+  border: 1px solid red;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+div a {
+  color: aqua;
+}
